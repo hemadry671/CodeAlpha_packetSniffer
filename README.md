@@ -1,10 +1,10 @@
-# CodeAlpha Internship – Tasks 1 & 4 Submission  
+# CodeAlpha Internship – Tasks 1 & 3 Submission  
 **Author:** Hemadry Biswas  
 
 This repository contains my submission for the following CodeAlpha internship tasks:
 
 - **Task 1: Network Packet Sniffer** – Developed a Python-based packet sniffer using raw sockets.  
-- **Task 4: Secure Coding Review** – Performed a manual security audit of the same packet sniffer, identified vulnerabilities, and implemented mitigations.
+- **Task 3: Secure Coding Review** – Performed a manual security audit of the same packet sniffer, identified vulnerabilities, and implemented mitigations.
 
 The updated and hardened script is included in this repository along with a `Fixes.txt` file documenting all discovered issues and their corresponding fixes.
 
